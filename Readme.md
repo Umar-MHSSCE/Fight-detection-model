@@ -65,12 +65,6 @@ Fight / Non-Fight Prediction
 | Violence | Physical violence or aggressive confrontation |
 | NonViolence | Normal daily activities without violence |
 
-Aur README ke top par short summary bhi add kar sakte ho:
-
-# Fight Detection System
-
-A Transformer-based video violence detection system built using PyTorch and TimeSformer. The model was fine-tuned on real-world violence datasets and deployed on Microsoft Azure Virtual Machine for cloud-based inference.
-
 The system supports:
 
 - Model training and experimentation using Google Colab
